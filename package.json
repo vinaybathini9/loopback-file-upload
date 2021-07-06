@@ -1,0 +1,26 @@
+{
+  "name": "excel-to-json-in-node",
+  "version": "1.0.0",
+  "description": "http://code.ciphertrick.com/2016/06/05/read-excel-files-convert-json-node-js/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahil471/excel-to-json-in-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahil471/excel-to-json-in-Node.js/issues"
+  },
+  "homepage": "https://github.com/rahil471/excel-to-json-in-Node.js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "xls-to-json-lc": "^0.3.4",
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
